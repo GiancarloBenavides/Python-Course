@@ -12,18 +12,14 @@ Una plataforma digital ó [hardware](https://es.wikipedia.org/wiki/Hardware) nec
 * Esta definido por un conjunto de reglas o [gramática](https://es.wikipedia.org/wiki/Gram%C3%A1tica).
 * Debe traducirse a [código maquina](https://es.wikipedia.org/wiki/Lenguaje_de_m%C3%A1quina) por un compilador o un interprete.
 * Se categorizan según su nivel de abstracción respecto de la [arquitectura](https://es.wikipedia.org/wiki/Arquitectura_de_computadoras).
-* Incluye combinaciones de [paradigmas de programación](https://es.wikipedia.org/wiki/Paradigma_de_programaci%C3%B3n).
-
-
-
-
-variables
-control de flujo 
-procedimientos
-
+* Incluye herramientas de multiples [paradigmas de programación](https://es.wikipedia.org/wiki/Paradigma_de_programaci%C3%B3n).
+* Pequeñas variaciones del lenguaje se conocen como [dialectos](https://es.wikipedia.org/wiki/Dialecto).
+* Si permite una [maquina lógica universal](https://es.wikipedia.org/wiki/M%C3%A1quina_de_Turing_universal) se denomina Turing completo.
 
 ---
 ### Comparativa
+Las implementaciones del lenguaje son paquetes de software que siguiendo su gramática, compilan o interpretan los programas en instrucciones que las arquitecturas de hardware puedan procesar.
+
 | # | Compilador | Interprete |
 |:---:|---|---|
 | 1 | Para distribuir | Para prototipos |
@@ -32,8 +28,28 @@ procedimientos
 | 4 | Ejecución mas rápida | Menor consumo de memoria |
 
 ---
-## Python
+### Entorno de trabajo
+Las herramientas de software que se usan para programar se consideran el entorno de desarrollo, que pueden soportar multiples lenguajes de programación y estas pueden incluir:
+* Un [editor de código fuente](https://es.wikipedia.org/wiki/Editor_de_c%C3%B3digo_fuente) con opciones de resaltado y corrección de sintaxis, refactorización de código y herramientas de auto-completado inteligente o [IntelliSense](https://es.wikipedia.org/wiki/IntelliSense).
+* Un [depurador](https://es.wikipedia.org/wiki/Depurador) que nos permite simular e inspeccionar la ejecución parcial y paso a paso de los [programas](https://es.wikipedia.org/wiki/Programa_inform%C3%A1tico). 
+
+---
+### Python
 Es un lenguaje de programación de código abierto, interpretado, de tipado dinámico, multiparadigma y multiplataforma cuya filosofía hace hincapié en la legibilidad de su código.
+
+---
+
+
+---
+variables
+control de flujo 
+procedimientos
+
+
+
+
+---
+
 
 
 ---
