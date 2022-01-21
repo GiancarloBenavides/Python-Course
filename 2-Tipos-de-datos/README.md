@@ -12,6 +12,7 @@ Una plataforma digital ó [hardware](https://es.wikipedia.org/wiki/Hardware) nec
 * Esta definido por un conjunto de reglas o [gramática](https://es.wikipedia.org/wiki/Gram%C3%A1tica).
 * Debe traducirse a [código maquina](https://es.wikipedia.org/wiki/Lenguaje_de_m%C3%A1quina) por un compilador o un interprete.
 * Se categorizan según su nivel de abstracción respecto de la [arquitectura](https://es.wikipedia.org/wiki/Arquitectura_de_computadoras).
+* Incluye combinaciones de [paradigmas de programación](https://es.wikipedia.org/wiki/Paradigma_de_programaci%C3%B3n).
 
 
 ---
