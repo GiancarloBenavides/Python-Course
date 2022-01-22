@@ -1,15 +1,13 @@
 [![Licencia](https://img.shields.io/badge/license-MIT-blue.svg)](http://kmonsoor.mit-license.org/) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/matplotlib)
 
-
-
 # Python-Course
-Notas y algoritmos para un curso de programación en Python.
+Notas y algoritmos para un curso de programación en Python.<br><br>
 
-><i style="color:green">"La mayoría de los buenos programadores, programan no porque les paguen, sino porque programar es divertido."</i><br>
+* > <i>"La mayoría de los buenos programadores, programan no porque les paguen, sino porque programar es divertido."</i><br>
 <cite style="display:block; text-align: right">[Linus Torvalds](https://es.wikipedia.org/wiki/Linus_Torvalds)</cite>
 
-
-
+style
+---
 ## Agenda
 1. [Introducción](https://github.com/GiancarloBenavides/Python-Course/tree/main/1-Introduccion)
 1. [Tipos de datos](https://github.com/GiancarloBenavides/Python-Course/tree/main/2-Tipos-de-datos)

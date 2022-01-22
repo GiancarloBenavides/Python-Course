@@ -4,7 +4,10 @@
 
 ---
 ## Plataforma Digital
-Una plataforma digital ó [hardware](https://es.wikipedia.org/wiki/Hardware) necesita ser programada para proporcionar funcionalidad, estos programas ó [software](https://es.wikipedia.org/wiki/Software) son una secuencia ordenada de instrucciones que se ejecutan en el sistema proporcionando los resultados deseados. 
+Una plataforma digital ó [hardware](https://es.wikipedia.org/wiki/Hardware) necesita ser programada para proporcionar funcionalidad, estos programas ó [software](https://es.wikipedia.org/wiki/Software) son una secuencia ordenada de instrucciones que se ejecutan en el sistema proporcionando los resultados deseados.
+
+><i>"La mayoría de los buenos programadores, programan no porque les paguen, sino porque programar es divertido."</i><br>
+<cite style="display:block; text-align: right">[Linus Torvalds](https://es.wikipedia.org/wiki/Linus_Torvalds)</cite>
 
 ---
 ### Lenguaje de programación
