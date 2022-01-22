@@ -5,8 +5,9 @@
 # Python-Course
 Notas y algoritmos para un curso de programación en Python.
 
-><i style="color:green">"La mayoría de los buenos programadores, programan no porque les paguen, sino porque programar es divertido."</i>
+><i style="color:green">"La mayoría de los buenos programadores, programan no porque les paguen, sino porque programar es divertido."</i><br>
 <cite style="display:block; text-align: right">[Linus Torvalds](https://es.wikipedia.org/wiki/Linus_Torvalds)</cite>
+
 
 
 ## Agenda
