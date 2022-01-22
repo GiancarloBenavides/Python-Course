@@ -1,6 +1,6 @@
 [![Licencia](https://img.shields.io/badge/license-MIT-blue.svg)](http://kmonsoor.mit-license.org/) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/matplotlib)
 
-<style>
+<style type="text/css" display="none">
     blockquote i::before {
         content: open-quote;
     }
