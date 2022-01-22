@@ -1,29 +1,12 @@
 [![Licencia](https://img.shields.io/badge/license-MIT-blue.svg)](http://kmonsoor.mit-license.org/) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/matplotlib)
 
-<style type="text/css" display="none">
-    blockquote i::before {
-        content: open-quote;
-    }
-    blockquote i::after {
-        content: close-quote;
-    }
-    blockquote{
-        color: green;
-        text-align: left;
-        quotes: "“" "”" "‘" "’";
-    }
-    blockquote cite{
-        display: block;
-        color: red;
-        text-align: right;
-    }
 
-</style>
 
 # Python-Course
 Notas y algoritmos para un curso de programación en Python.
 
-><i>La mayoría de los buenos programadores, programan no porque les paguen, sino porque programar es divertido.</i><cite>[Linus Torvalds](https://es.wikipedia.org/wiki/Linus_Torvalds)</cite>
+><i style="color:green">"La mayoría de los buenos programadores, programan no porque les paguen, sino porque programar es divertido."</i>
+<cite style="display:block; text-align: right">[Linus Torvalds](https://es.wikipedia.org/wiki/Linus_Torvalds)</cite>
 
 
 ## Agenda
