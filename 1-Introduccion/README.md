@@ -31,26 +31,18 @@ Las implementaciones del lenguaje son paquetes de software que siguiendo su gram
 ### Entorno de trabajo
 Las herramientas de software que se usan para programar se consideran el entorno de desarrollo, que pueden soportar multiples lenguajes de programación y estas pueden incluir:
 * Un [editor de código fuente](https://es.wikipedia.org/wiki/Editor_de_c%C3%B3digo_fuente) con opciones de resaltado y corrección de sintaxis, refactorización de código y herramientas de auto-completado inteligente o [IntelliSense](https://es.wikipedia.org/wiki/IntelliSense).
-* Un [depurador](https://es.wikipedia.org/wiki/Depurador) que nos permite simular e inspeccionar la ejecución parcial y paso a paso de los [programas](https://es.wikipedia.org/wiki/Programa_inform%C3%A1tico). 
+* Un [depurador](https://es.wikipedia.org/wiki/Depurador) que nos permite simular e inspeccionar en un entorno seguro la ejecución parcial y paso a paso de un conjunto de instrucciones o [programa](https://es.wikipedia.org/wiki/Programa_inform%C3%A1tico). 
+* Es posibble que algunos entornos integren herramientas de [programación visual](https://es.wikipedia.org/wiki/Programaci%C3%B3n_visual).
 
 ---
-### Python
+## Python
 Es un lenguaje de programación de código abierto, interpretado, de tipado dinámico, multiparadigma y multiplataforma cuya filosofía hace hincapié en la legibilidad de su código.
 
 ---
-
-
----
+## Road map
 variables
 control de flujo 
 procedimientos
-
-
-
-
----
-
-
 
 ---
 ## Mas Recursos
