@@ -60,6 +60,13 @@ Las herramientas de software que se usan para programar se consideran el entorno
 
 
 ---
+### Control de versiones
+* Es la gestión de los diversos cambios que se realizan en una aplicación informática, para ello se asigna continuamente un nombre código o número único, a un software para indicar su nivel de desarrollo.
+* Aunque el control de versiones puede realizarse de forma manual, existen herramientas que facilitan esta gestión dando lugar a los llamados sistemas de control de versiones.
+    * Ejemplo: [GIT](https://es.wikipedia.org/wiki/Git) 
+
+
+---
 ## Python
 Es un lenguaje de programación de código abierto, interpretado, multiparadigma y multiplataforma cuya filosofía hace hincapié en la legibilidad de su código.
 
@@ -67,9 +74,10 @@ Es un lenguaje de programación de código abierto, interpretado, multiparadigma
 <cite style="display:block; text-align: right">[Guido van Rossum
 ](https://es.wikipedia.org/wiki/Guido_van_Rossum)</cite>
 
+
+
 ---
 ## Mas Recursos
-
 - [Lenguaje de programación](https://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n) (Wikipedia)
 - [Compilador](https://es.wikipedia.org/wiki/Compilador) (Wikipedia)
 - [Intérprete](https://es.wikipedia.org/wiki/Int%C3%A9rprete_(inform%C3%A1tica)) (Wikipedia)
