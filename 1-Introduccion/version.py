@@ -1,16 +1,11 @@
-# test_01.py
+# -*- coding: utf-8 -*-
 ''' VERSIÓN DE LA IMPLEMENTACIÓN 
 Ejemplo para el curso de programación en python
 por Ing. Giancarlo Ortiz. '''
-# Operaciones con cadenas en python 3
+# Control de versiones
 """ En programación, Las obras o aplicaciones de software 
-tienen operaciones con cadenas.
-El versionado de software es el proceso de asignación de un nombre, 
-código o número único, a un software para indicar su nivel de desarrollo
-
-Python usa la codificación Unicode en lugar de ASCII.
-Lo que hace posibles mas de 100.000 Caracteres.
-Type("x") → <class 'str'> → cadena Unicode. """
+tienen un nombre código o número único, a un software 
+para indicar su nivel de desarrollo. """
 
 # Importando funcionalidad al script 
 import sys

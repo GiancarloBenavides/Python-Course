@@ -63,7 +63,7 @@ Las herramientas de software que se usan para programar se consideran el entorno
 ### Control de versiones
 * Es la gestión de los diversos cambios que se realizan en una aplicación informática, para ello se asigna continuamente un nombre código o número único, a un software para indicar su nivel de desarrollo.
 * Aunque el control de versiones puede realizarse de forma manual, existen herramientas que facilitan esta gestión dando lugar a los llamados sistemas de control de versiones.
-    * Ejemplo: [GIT](https://es.wikipedia.org/wiki/Git) 
+    * Ejemplo: [GIT](https://es.wikipedia.org/wiki/Git) programado en C.
 
 
 ---
