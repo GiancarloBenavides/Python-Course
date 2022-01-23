@@ -75,6 +75,13 @@ Es un lenguaje de programación de código abierto, interpretado, multiparadigma
 ](https://es.wikipedia.org/wiki/Guido_van_Rossum)</cite>
 
 
+---
+## Instalación Python
+1. Instalar una implementación o interprete de [**Python**](https://www.python.org/downloads/) del sitio web oficial.
+1. Instalar el editor [**Visual studio code**](https://code.visualstudio.com/download) del sitio web oficial.
+1. Instalar la extensión oficial de [**Microsoft para Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) en VSCode.
+1. Instalar la extensión oficial de [**Github**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) para VSCode.
+
 
 ---
 ## Mas Recursos

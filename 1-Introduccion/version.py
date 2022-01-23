@@ -6,6 +6,14 @@ por Ing. Giancarlo Ortiz. '''
 """ En programación, Las obras o aplicaciones de software 
 tienen un nombre código o número único, a un software 
 para indicar su nivel de desarrollo. """
+# 
+'''
+https://www.python.org/downloads/release/python-3102/
+
+https://www.python.org/downloads/windows/
+
+
+'''
 
 # Importando funcionalidad al script 
 import sys
