@@ -63,7 +63,8 @@ Las herramientas de software que se usan para programar se consideran el entorno
 ### Control de versiones
 * Es la gestión de los diversos cambios que se realizan en una aplicación informática, para ello se asigna continuamente un nombre código o número único, a un software para indicar su nivel de desarrollo.
 * Aunque el control de versiones puede realizarse de forma manual, existen herramientas que facilitan esta gestión dando lugar a los llamados sistemas de control de versiones.
-    * Ejemplo: [GIT](https://es.wikipedia.org/wiki/Git) programado en C.
+    * **Ejemplos:**
+        * Ejemplo: [GIT](https://es.wikipedia.org/wiki/Git) programado en C.
 
 
 ---
@@ -76,11 +77,21 @@ Es un lenguaje de programación de código abierto, interpretado, multiparadigma
 
 
 ---
-## Instalación Python
-1. Instalar una implementación o interprete de [**Python**](https://www.python.org/downloads/) del sitio web oficial.
-1. Instalar el editor [**Visual studio code**](https://code.visualstudio.com/download) del sitio web oficial.
-1. Instalar la extensión oficial de [**Microsoft para Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) en VSCode.
-1. Instalar la extensión oficial de [**Github**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) para VSCode.
+## Implementaciones y versiones de Python
+* [CPython](https://es.wikipedia.org/wiki/CPython) es la implementación oficial escrita en lenguaje C, su código fuente y binarios para multiples plataformas están disponibles en el sitio web oficial.
+* Se puede mencionar implementaciones que extienden compatibilidad del lenguaje con la maquina virtual de Java o [.Net](https://ironpython.net/).
+* Existen implementaciones como [PyPy](https://es.wikipedia.org/wiki/PyPy) optimizadas para JIT.
+* Incluso existen herramientas como [RPython](https://rpython.readthedocs.io/en/latest/) para construir un interprete personalizado.
+
+
+---
+## Instalación Básica de Python + VSCode
+1. Elige una implementación y version estable del interprete de [**Python**](https://www.python.org/downloads/).
+1. Instala una implementación o interprete de [**Python**](https://www.python.org/downloads/) del sitio web oficial.
+1. Instala el editor [**Visual studio code**](https://code.visualstudio.com/download) del sitio web oficial.
+1. Instala la extensión oficial de [**Microsoft para Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) en VSCode.
+1. Instala la extensión oficial de [**Github**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) para VSCode.
+1. Explorar otras extensiones en el [**Marketplace**](https://marketplace.visualstudio.com/) para VSCode.
 
 
 ---
@@ -88,3 +99,4 @@ Es un lenguaje de programación de código abierto, interpretado, multiparadigma
 - [Lenguaje de programación](https://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n) (Wikipedia)
 - [Compilador](https://es.wikipedia.org/wiki/Compilador) (Wikipedia)
 - [Intérprete](https://es.wikipedia.org/wiki/Int%C3%A9rprete_(inform%C3%A1tica)) (Wikipedia)
+- [Compilación en tiempo de ejecución](https://es.wikipedia.org/wiki/Compilaci%C3%B3n_en_tiempo_de_ejecuci%C3%B3n) (Wikipedia)
