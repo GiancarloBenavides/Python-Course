@@ -61,15 +61,14 @@ Las herramientas de software que se usan para programar se consideran el entorno
 
 ---
 ### Control de versiones
-* Es la gestión de los diversos cambios que se realizan en una aplicación informática, para ello se asigna continuamente un nombre código o número único, a un software para indicar su nivel de desarrollo.
-* Aunque el control de versiones puede realizarse de forma manual, existen herramientas que facilitan esta gestión dando lugar a los llamados sistemas de control de versiones.
-    * **Ejemplos:**
-        * Ejemplo: [GIT](https://es.wikipedia.org/wiki/Git) programado en C.
+* Para la gestión de los diversos cambios que se realizan en una aplicación informática se asigna continuamente un [**código**](https://es.wikipedia.org/wiki/Versionado_de_software) indicando su nivel de desarrollo.
+* Aunque el control de versiones puede realizarse de forma manual, existen los [**VCS**](https://es.wikipedia.org/wiki/Control_de_versiones) sistemas de control de versiones como [**GIT**](https://es.wikipedia.org/wiki/Git) que facilitan esta gestión de código.
+* Adicionalmente existes servicios de alojamiento de código como [**GitHub**](https://es.wikipedia.org/wiki/GitHub) que facilitan esta gestión de código y el desarrollo colaborativo.
 
 
 ---
 ## Python
-Es un lenguaje de programación de código abierto, interpretado, multiparadigma y multiplataforma cuya filosofía hace hincapié en la legibilidad de su código.
+Es un lenguaje de programación de código abierto [**PSFL**](https://es.wikipedia.org/wiki/Python_Software_Foundation_License), interpretado, multiparadigma y multiplataforma cuya filosofía hace hincapié en la legibilidad de su código.
 
 * ><i>"Python es un experimento sobre cuánta libertad necesitan los programadores. Demasiada libertad y nadie puede leer el código de otro; poca libertad y la expresividad estará en peligro."</i><br>
 <cite style="display:block; text-align: right">[Guido van Rossum
@@ -77,11 +76,26 @@ Es un lenguaje de programación de código abierto, interpretado, multiparadigma
 
 
 ---
-## Implementaciones y versiones de Python
+## Implementaciones de Python
 * [CPython](https://es.wikipedia.org/wiki/CPython) es la implementación oficial escrita en lenguaje C, su código fuente y binarios para multiples plataformas están disponibles en el sitio web oficial.
 * Se puede mencionar implementaciones que extienden compatibilidad del lenguaje con la maquina virtual de Java o [.Net](https://ironpython.net/).
 * Existen implementaciones como [PyPy](https://es.wikipedia.org/wiki/PyPy) optimizadas para JIT.
 * Incluso existen herramientas como [RPython](https://rpython.readthedocs.io/en/latest/) para construir un interprete personalizado.
+
+
+---
+## Versiones de Python
+* Python 2 - [Python 2.7.18][1]
+* Python 3 - [Python 3.9.10][2] (Recomendado)
+* Python 3 - [Python 3.10.2][3]
+* Python 3 - [Código fuente][4]
+* Python 3 - [Repositorio][5]
+
+[1]: https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi
+[2]: https://www.python.org/ftp/python/3.9.10/python-3.9.10-amd64.exe
+[3]: https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe
+[4]: https://www.python.org/downloads/source/
+[5]: https://github.com/python/cpython
 
 
 ---
@@ -92,6 +106,7 @@ Es un lenguaje de programación de código abierto, interpretado, multiparadigma
 1. Instala la extensión oficial de [**Microsoft para Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) en VSCode.
 1. Instala la extensión oficial de [**Github**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) para VSCode.
 1. Explorar otras extensiones en el [**Marketplace**](https://marketplace.visualstudio.com/) para VSCode.
+1. Instalar módulos [**Marketplace**](https://marketplace.visualstudio.com/) para VSCode.
 
 
 ---
