@@ -56,8 +56,7 @@ Las herramientas de software que se usan para programar se consideran el entorno
 * [**Copyleft:**](https://es.wikipedia.org/wiki/Copyleft) licencias de software relacionadas con mantener libres los derechos patrimoniales y de utilización.
 * [**Código abierto:**](https://es.wikipedia.org/wiki/Licencia_de_c%C3%B3digo_abierto) licencias que permiten que tanto el código fuente como los archivos binarios del software sean modificados y redistribuidos libremente favoreciendo la colaboración abierta.
 * [**Dominio público:**](https://es.wikipedia.org/wiki/Dominio_p%C3%BAblico) obras y aplicaciones informáticas  que no tienen derechos exclusivos de autor, pertenecen a todos.
-
-
+![img](img/licenses.png)
 ---
 ### Control de versiones
 * Para la gestión de los diversos cambios que se realizan en una aplicación informática se asigna continuamente un [**código**](https://es.wikipedia.org/wiki/Versionado_de_software) indicando su nivel de desarrollo.
