@@ -21,7 +21,7 @@ Las plataformas o arquitecturas de computadores y los lenguajes de programación
 
 
 ---
-### Colecciones de datos 
+#### Colecciones de datos 
 Los lenguajes de programación definen colecciones de datos como un tipo de dato, de forma que un lenguaje también puede incluir tipos como:
 * __Listas__ (List)
 * __Arreglos__ (Array)
@@ -32,7 +32,7 @@ Los lenguajes de programación definen colecciones de datos como un tipo de dato
 
 
 ---
-### Datos compuestos
+#### Datos compuestos
 Algunos lenguajes de programación definen conjuntos estructurados de datos que a su vez son otro tipo de dato, de forma que un lenguaje también puede incluir tipos complejos como:
 * __Clases__ (Class)
 * __Objetos__ (Obj)
@@ -40,19 +40,35 @@ Algunos lenguajes de programación definen conjuntos estructurados de datos que 
 
 
 ---
-### Datos abstractos
+#### Datos abstractos
 Algunos lenguajes de programación permiten al usuario definir nuevos tipos de  datos, de forma que el programador pueda crear  estructuras de datos o colecciones estructuradas que se derivan de los tipos incluidos:
 * __Arboles__ (Tree)
 * __Pilas__ (Stack)
 * __Colas__ (Queue)
 * __Grafos__ (Graph)
 
+--- 
+### Conversión de tipos
+* El _type casting_ se refiere a la transformación de un tipo de dato en otro.
+* Un lenguaje **fuertemente tipado** permite solo las conversiones de tipo automáticas que no hagan perder información.
+* En un lenguaje **débilmente tipado** el programador debe evitar conversiones automáticas que hagan perder información.
+
+
+---
+### Comprobación de tipos
+* __Estático:__ cuando la comprobación de tipos se realiza durante la compilación; por tanto los errores de tipo se detectan antes de la ejecución.
+    * Ejemplos: C, C++, Java, Go, **Rust**
+* __Dinámico:__ cuando la comprobación de tipos se realiza durante la ejecución; por tanto la declaración de tipos no es mas flexible. 
+    * Ejemplos: **Python**, Perl, JavaScript, Ruby
+
 
 ---
 ### Tipos en Python
+* Python es un lenguaje de tipado dinámico pero fuertemente tipado. 
 * En Python todo es un objeto, incluyendo las variables, esto porque en Python, los tipos de datos son clases.
 * Las clases que definen los tipos de datos heredan propiedades de una meta-clase "__object__". 
 * En Python existen __14__ tipos de datos básicos con sus operaciones asociadas.
+
 
 ---
 ### Jerarquía de tipos en Python
