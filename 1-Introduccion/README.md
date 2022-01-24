@@ -100,13 +100,21 @@ Es un lenguaje de programación de código abierto [**PSFL**](https://es.wikiped
 
 ---
 ## Instalación Básica de Python + VSCode
-1. Elige una implementación y version estable del interprete de [**Python**](https://www.python.org/downloads/).
-1. Instala una implementación o interprete de [**Python**](https://www.python.org/downloads/) del sitio web oficial.
-1. Instala el editor [**Visual studio code**](https://code.visualstudio.com/download) del sitio web oficial.
-1. Instala la extensión oficial de [**Microsoft para Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) en VSCode.
-1. Instala la extensión oficial de [**Github**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) para VSCode.
-1. Explorar otras extensiones en el [**Marketplace**](https://marketplace.visualstudio.com/) para VSCode.
-1. Instalar módulos [**Marketplace**](https://marketplace.visualstudio.com/) para VSCode.
+1. Elige una implementación y version estable del interprete de [**Python**][11].
+1. Instala una implementación o interprete de [**Python**][12] del sitio web oficial.
+1. Instala el editor [**Visual studio code**][13] del sitio web oficial.
+1. Instala la extensión oficial de [**Microsoft para Python**][14] en VSCode.
+1. Instala la extensión oficial de [**Github**][15] para VSCode.
+1. Explorar otras extensiones en el [**Marketplace**][16] para VSCode.
+1. Actualizar el administrador de paquetes [**pip**][17] de Python.
+
+[11]: https://www.python.org/downloads/
+[12]: https://www.python.org/downloads/
+[13]: https://code.visualstudio.com/download
+[14]: https://marketplace.visualstudio.com/items?itemName=ms-python.python
+[15]: https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
+[16]: https://marketplace.visualstudio.com/
+[17]: https://es.wikipedia.org/wiki/Pip_(administrador_de_paquetes)
 
 
 ---
