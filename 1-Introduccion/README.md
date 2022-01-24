@@ -8,8 +8,7 @@
 Una plataforma digital ó [hardware](https://es.wikipedia.org/wiki/Hardware) necesita ser programada para proporcionar funcionalidad, estos programas ó [software](https://es.wikipedia.org/wiki/Software) son una secuencia ordenada de instrucciones que se ejecutan en el sistema proporcionando los resultados deseados.
 
 * ><i>"Es indigno que hombres notables pierdan su tiempo como esclavos del cálculo cuando podrían dejar ese trabajo en manos de cualquiera si se usaran las máquinas."</i><br>
-<cite style="display:block; text-align: right">[Gottfried Leibniz
-](https://es.wikipedia.org/wiki/Gottfried_Leibniz)</cite>
+<cite style="display:block; text-align: right">[Gottfried Leibniz](https://es.wikipedia.org/wiki/Gottfried_Leibniz)</cite>
 
 
 ---
@@ -31,13 +30,13 @@ Las implementaciones del lenguaje son paquetes de software que siguiendo su gram
 |:---:|---|---|
 | 1 | Para distribuir | Para prototipos |
 | 2 | Lee todo el programa | Lee parcialmente el programa|
-| 3 | Mejor manejo de errores | Interacción en tiempo Ejecucion |
+| 3 | Mejor manejo de errores | Interacción en tiempo Ejecución |
 | 4 | Ejecución mas rápida | Menor consumo de memoria |
 
 
 ---
 ### Entorno de trabajo
-Las herramientas de software que se usan para programar se consideran el entorno de desarrollo, que pueden soportar multiples lenguajes de programación y estas pueden incluir:
+Las herramientas de software que se usan para programar se consideran el entorno de desarrollo, que pueden soportar multiples lenguajes de programación y pueden incluir:
 * Un [editor de código fuente](https://es.wikipedia.org/wiki/Editor_de_c%C3%B3digo_fuente) con opciones de resaltado y corrección de sintaxis, refactorización de código y herramientas de auto-completado inteligente o [IntelliSense](https://es.wikipedia.org/wiki/IntelliSense).
 * Un [depurador](https://es.wikipedia.org/wiki/Depurador) que nos permite simular e inspeccionar en un entorno seguro la ejecución parcial y paso a paso de un conjunto de instrucciones o [programa](https://es.wikipedia.org/wiki/Programa_inform%C3%A1tico). 
 * Es posibble que algunos entornos integren herramientas de [programación visual](https://es.wikipedia.org/wiki/Programaci%C3%B3n_visual).
@@ -71,50 +70,54 @@ Las herramientas de software que se usan para programar se consideran el entorno
 Es un lenguaje de programación de código abierto [**PSFL**](https://es.wikipedia.org/wiki/Python_Software_Foundation_License), interpretado, multiparadigma y multiplataforma cuya filosofía hace hincapié en la legibilidad de su código.
 
 * ><i>"Python es un experimento sobre cuánta libertad necesitan los programadores. Demasiada libertad y nadie puede leer el código de otro; poca libertad y la expresividad estará en peligro."</i><br>
-<cite style="display:block; text-align: right">[Guido van Rossum
-](https://es.wikipedia.org/wiki/Guido_van_Rossum)</cite>
+<cite style="display:block; text-align: right">[Guido van Rossum](https://es.wikipedia.org/wiki/Guido_van_Rossum)</cite>
 
 
 ---
 ## Implementaciones de Python
-* [CPython](https://es.wikipedia.org/wiki/CPython) es la implementación oficial escrita en lenguaje C, su código fuente y binarios para multiples plataformas están disponibles en el sitio web oficial.
-* Se puede mencionar implementaciones que extienden compatibilidad del lenguaje con la maquina virtual de Java o [.Net](https://ironpython.net/).
-* Existen implementaciones como [PyPy](https://es.wikipedia.org/wiki/PyPy) optimizadas para JIT.
-* Incluso existen herramientas como [RPython](https://rpython.readthedocs.io/en/latest/) para construir un interprete personalizado.
+* [CPython][11] es la implementación oficial escrita en lenguaje C, su código fuente y binarios para multiples plataformas están disponibles en el sitio web oficial.
+* Se puede mencionar implementaciones que extienden compatibilidad del lenguaje con la maquina virtual de Java o [.Net][12].
+* Existen implementaciones como [PyPy][13] optimizadas para JIT.
+* Incluso existen herramientas como [RPython][14] para construir un interprete personalizado.
+
+[11]: https://es.wikipedia.org/wiki/CPython
+[12]: https://ironpython.net/
+[13]: https://es.wikipedia.org/wiki/PyPy
+[14]: https://rpython.readthedocs.io/en/latest/
 
 
 ---
 ## Versiones de Python
-* Python 2 - [Python 2.7.18][1]
-* Python 3 - [Python 3.9.10][2] (Recomendado)
-* Python 3 - [Python 3.10.2][3]
-* Python 3 - [Código fuente][4]
-* Python 3 - [Repositorio][5]
+* Python 2 - [Python 2.7.18][21]
+* Python 3 - [Python 3.9.10][22] (Recomendado)
+* Python 3 - [Python 3.10.2][23]
+* Python 3 - [Código fuente][24]
+* Python 3 - [Repositorio][25]
 
-[1]: https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi
-[2]: https://www.python.org/ftp/python/3.9.10/python-3.9.10-amd64.exe
-[3]: https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe
-[4]: https://www.python.org/downloads/source/
-[5]: https://github.com/python/cpython
+[21]: https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi
+[22]: https://www.python.org/ftp/python/3.9.10/python-3.9.10-amd64.exe
+[23]: https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe
+[24]: https://www.python.org/downloads/source/
+[25]: https://github.com/python/cpython
 
 
 ---
 ## Instalación Básica de Python + VSCode
-1. Elige una implementación y version estable del interprete de [**Python**][11].
-1. Instala una implementación o interprete de [**Python**][12] del sitio web oficial.
-1. Instala el editor [**Visual studio code**][13] del sitio web oficial.
-1. Instala la extensión oficial de [**Microsoft para Python**][14] en VSCode.
-1. Instala la extensión oficial de [**Github**][15] para VSCode.
-1. Explorar otras extensiones en el [**Marketplace**][16] para VSCode.
-1. Actualizar el administrador de paquetes [**pip**][17] de Python.
+1. Elige una implementación y version estable del interprete de [**Python**][31].
+1. Instala una implementación o interprete de [**Python**][32] del sitio web oficial.
+1. Instala el editor [**Visual studio code**][33] del sitio web oficial.
+1. Instala la extensión oficial de [**Microsoft para Python**][34] en VSCode.
+1. Instala la extensión oficial de [**Github**][35] para VSCode.
+1. Explorar otras extensiones en el [**Marketplace**][36] para VSCode.
+1. Actualizar el administrador de paquetes [**pip**][37] de Python.
 
-[11]: https://www.python.org/downloads/
-[12]: https://www.python.org/downloads/
-[13]: https://code.visualstudio.com/download
-[14]: https://marketplace.visualstudio.com/items?itemName=ms-python.python
-[15]: https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
-[16]: https://marketplace.visualstudio.com/
-[17]: https://es.wikipedia.org/wiki/Pip_(administrador_de_paquetes)
+[31]: https://www.python.org/downloads/
+[32]: https://www.python.org/downloads/
+[33]: https://code.visualstudio.com/download
+[34]: https://marketplace.visualstudio.com/items?itemName=ms-python.python
+[35]: https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
+[36]: https://marketplace.visualstudio.com/
+[37]: https://es.wikipedia.org/wiki/Pip_(administrador_de_paquetes)
 
 
 ---
