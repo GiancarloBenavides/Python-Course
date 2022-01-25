@@ -6,7 +6,7 @@
 ## Tipos de Datos
 En un lenguaje de programación los tipos definen los atributos que puede tomar una variable, clasificando los valores en un sistema de tipos que impone restricciones en las operaciones que se pueden realizar.
 
-* ><i>"Se cometen muchos menos errores usando datos incorrectos que no empleando dato alguno."</i><br>
+* ><i>"Se cometen muchos menos errores usando datos incorrectos... que no empleando dato alguno."</i><br>
 <cite style="display:block; text-align: right">[Charles Babbage](https://es.wikipedia.org/wiki/Charles_Babbage)</cite>
 
 
@@ -41,7 +41,7 @@ Algunos lenguajes de programación definen conjuntos estructurados de datos que 
 
 ---
 #### Datos abstractos
-Algunos lenguajes de programación permiten al usuario definir nuevos tipos de  datos, de forma que el programador pueda crear  estructuras de datos o colecciones estructuradas que se derivan de los tipos incluidos:
+Algunos lenguajes de programación permiten al usuario definir nuevos tipos de datos, de forma que el programador pueda crear estructuras de datos o colecciones estructuradas, que se derivan de los tipos incluidos:
 * __Arboles__ (Tree)
 * __Pilas__ (Stack)
 * __Colas__ (Queue)
@@ -106,6 +106,35 @@ Python distingue mayúsculas de minúsculas y restringe el uso de identificadore
 * El primer carácter debe ser una letra o el carácter de subrayado 
 **[a-z, A-Z, _]**
 * El segundo y siguientes pueden ser dígitos, letras o caracteres de subrayado **[a-z, A-Z, 1-9, _]**
+
+
+---
+## Palabras reservadas
+Es una palabra que tiene un significado gramatical especial para ese lenguaje y no puede ser utilizada como un identificador de objetos en códigos del mismo, como pueden ser las variables.
+| Lenguaje | Palabras reservadas |
+|---|:---:|
+| __Python:__       |   35 |
+| __JavaScript:__   |   46 |
+| __Java:__         |   48 |
+| __C#__            |   77 |
+| __C++__           |  124 |
+| __COBOL__         | +300 |
+
+
+---
+### Palabras reservadas en Python
+| # | Keyword | # | Keyword | # | Keyword | # | Keyword |
+|:---:|---|:---:|---|:---:|---|:---:|---|
+| 1  | False  | 11 | continue | 21 | if       | 31 | return |
+| 2  | None   | 12 | def      | 22 | import   | 32 | try    |
+| 3  | True   | 13 | del      | 23 | in       | 33 | while  |
+| 4  | and    | 14 |__elif__  | 24 | is       | 34 | with   |
+| 5  | as     | 15 | else     | 25 | lambda   | 35 | yield  |
+| 6  | assert | 16 | except   | 26 |__nonlocal__| 36 | |
+| 7  | async  | 17 | finally  | 27 | not      | 37 | |
+| 8  | await  | 18 | for      | 28 | or       | 38 | |
+| 9  | break  | 19 | from     | 29 | pass     | 39 | |
+| 10 | class  | 20 | global   | 30 | raise    | 40 | |
 
 
 ---
