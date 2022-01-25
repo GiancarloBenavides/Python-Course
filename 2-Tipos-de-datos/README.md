@@ -93,7 +93,7 @@ Adicionalmente a los tipos de datos básicos el interprete de Python permite la 
 
 ---
 ## Identificadores
-* Los identificadores son nombres que el programador usa para hacer referencia a los objetos de un programa; estos pueden ser constantes, variables, funciones, clases, etc...
+Los identificadores son nombres que el programador usa para hacer referencia a los objetos de un programa; estos pueden ser constantes, variables, funciones, clases, etc...
 
 * ><i>"Explícito es mejor que implícito... Simple es mejor que complejo... La legibilidad es importante."</i><br>
 <cite style="display:block; text-align: right">[Tim Peters, Zen de Python](https://es.wikipedia.org/wiki/Tim_Peters)</cite>
@@ -113,9 +113,9 @@ Python distingue mayúsculas de minúsculas y restringe el uso de identificadore
 Es una palabra que tiene un significado gramatical especial para ese lenguaje y no puede ser utilizada como un identificador de objetos en códigos del mismo, como pueden ser las variables.
 | Lenguaje | Palabras reservadas |
 |---|:---:|
-| __Python:__       |   35 |
-| __JavaScript:__   |   46 |
-| __Java:__         |   48 |
+| __Python__        |   35 |
+| __JavaScript__    |   46 |
+| __Java__          |   48 |
 | __C#__            |   77 |
 | __C++__           |  124 |
 | __COBOL__         | +300 |
