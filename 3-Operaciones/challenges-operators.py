@@ -16,8 +16,8 @@ Agregue código para imprimir tres líneas donde:
 
 # Solution
 if __name__ == '__main__':
-    a = int(input())
-    b = int(input())
+    a = int(input("Number a:"))
+    b = int(input("Number b:"))
     print(a+b)
     print(a-b)
     print(a*b)

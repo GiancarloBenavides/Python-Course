@@ -19,7 +19,7 @@ Adicionalmente a los tipos de datos básicos el interprete de Python permite la 
 Estos pueden ser constantes, variables, funciones, clases, etc...
 En Python existen una reglas para usar identificadores:
 > El primer carácter debe ser una letra o el carácter de subrayado [a-z, A-Z, _]
-> El segundo y siguientes pueden ser dígitos, letras o carácteres de subrayado [a-z, A-Z, 1-9, _]
+> El segundo y siguientes pueden ser dígitos, letras o caracteres de subrayado [a-z, A-Z, 1-9, _]
 > No pueden utilizarse espacios en blanco, símbolos de puntuación o palabras reservadas del lenguaje
 > Python distingue mayúsculas y minúsculas. """
 
