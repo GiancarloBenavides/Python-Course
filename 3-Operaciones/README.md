@@ -28,7 +28,7 @@ cadena = "Hola mundo"
 
 
 ---
-## Asignación multiple
+## </> Asignación multiple
 En algunos lenguajes es posible inicializar varias variables en la misma instrucción.
 ```Python
 a, b, c = 1, 2, 3   # asignación multiple de 3 variables
@@ -49,7 +49,7 @@ numero_entero = int("15.2") # conversion de cadena a entero y asignación
 
 
 ---
-## Constructores en Python
+## </> Constructores en Python
 Python reserva una palabra para los constructores de cada uno de los 14 tipos de datos.
 
 ```Python
