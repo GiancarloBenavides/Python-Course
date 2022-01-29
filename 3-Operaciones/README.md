@@ -36,7 +36,7 @@ d = 1, 2, 3         # asignación de una tupla literal a una variable
 ```
 
 
-## Construcción y Conversión de tipos
+## </> Construcción y Conversión de tipos
 ---
 * Un constructor es una [__subrutina__](https://es.wikipedia.org/wiki/Subrutina) o método cuya misión es iniciar un objeto.
 * A cada tipo de dato le corresponde un constructor.
